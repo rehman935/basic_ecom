@@ -25,13 +25,10 @@ inital_setup_for_pytest_framwork/
 ## ✅ Setup Instructions
 
 ### 1. Clone the repo
-```bash
 git clone https://github.com/yourusername/pytest-selenium-framework.git
 cd pytest-selenium-framework
-## ✅ Setup Instructions
 
-### 1. Clone the repo
-```bash
+
 git clone https://github.com/yourusername/pytest-selenium-framework.git
 cd pytest-selenium-framework
 ### 2. Create virtual environment (optional but recommended)
