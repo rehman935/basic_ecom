@@ -28,10 +28,10 @@ inital_setup_for_pytest_framwork/
 ```bash
 git clone https://github.com/yourusername/pytest-selenium-framework.git
 cd pytest-selenium-framework
-2 Create virtual environment (optional but recommended)
+### 2. Create virtual environment (optional but recommended)
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\\Scripts\\activate
-3 Install dependencies
+### 3 Install dependencies
 pip install -r requirements.txt
 Make sure to install:
 selenium
