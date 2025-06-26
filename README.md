@@ -7,7 +7,8 @@ This is a basic yet extensible test automation framework built using:
 - 🌐 **Selenium WebDriver** for browser automation  
 - 📝 **pytest-html** for rich HTML reports  
 - 🧩 Supports multiple browsers: Chrome and Firefox  
-- 📸 Takes screenshots on test failure and embeds them in HTML reports  
+- 📸 Takes screenshots on test failure and embeds them in HTML reports
+- 🔄 Easily integrates with Jenkins CI/CD  
 - 📂 Easy command-line configuration via `--browser_name`
 - ## 📁 Project Structure
 
